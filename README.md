@@ -5,15 +5,15 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/vitalii-97/vitalii-97.github.io/) 
 ![GitHub forks](https://img.shields.io/github/forks/vitalii-97/vitalii-97.github.io/)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/vitalii-97/vitalii-97.github.io//commits/main)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://vitalii-97.github.io//)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/vitalii-97/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/vitalii-97/vitalii-97.github.io/commits/main)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://vitalii-97.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/lishchuk-vitalii-7013912a3/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://vitalii-97.github.io/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://vitalii-97.github.io/" target="_blank"><img src="examples/portfolio.png">
   </a>
   </kbd>
 </p>
